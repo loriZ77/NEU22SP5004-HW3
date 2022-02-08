@@ -1,6 +1,6 @@
 /*
 * Write a program that finds the transpose of a matrix,
-* read from a text file(Problem3.txt)
+* read from a text file (Problem3.txt)
 * The first line in the file will be the dimensions.
 * The rest of lines will be the matrix
 *
@@ -16,8 +16,8 @@
 * (3 and 4 in the first line represent this is a 3 x 4 matrix)
 *
 * Output:
-* A string represent the transpose of a matrix
-* each line represent one row and one white space between each two elements.
+* A string represents the transpose of a matrix
+* each line represents one row and one white space between each two elements.
 */
 
 public class Problem3 {
