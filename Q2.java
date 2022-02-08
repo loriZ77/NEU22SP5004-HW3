@@ -1,5 +1,3 @@
-package hw3;
-
 /**
  * Define an integer array with length as 6,
  * then double the element value which is at odd index.
