@@ -1,9 +1,10 @@
 import java.util.Scanner;
-
-// Find factorial of a number. 
-// The factorial of a positive number n is given by: 
-// factorial of n, (n!) = 1 * 2 * 3 * 4 * ... * n
-// 
+/*
+ * Problem 5 [10pts]
+ * Find factorial of a number. 
+ * The factorial of a positive number n is given by: 
+ * factorial of n, (n!) = 1 * 2 * 3 * 4 * ... * n
+*/
 
 
 class Problem5 {
