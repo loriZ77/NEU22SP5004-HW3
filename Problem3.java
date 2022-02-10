@@ -16,7 +16,7 @@
 * (3 and 4 in the first line represent this is a 3 x 4 matrix)
 *
 * Output:
-* A string represents the transpose of a matrix
+* A string array represents the transpose of a matrix
 * each line represents one row and one white space between each two elements.
 */
 
